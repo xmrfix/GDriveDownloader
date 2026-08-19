@@ -1,7 +1,7 @@
 # 🚀 GDrive Downloader
 
 <p align="center">
-  <img src="website for preview/assets/logo.png" width="100" height="100" alt="GDrive Downloader Logo" style="border-radius: 20px;" />
+  <img src="https://l.top4top.io/p_3883xnutw1.png" width="100" height="100" alt="GDrive Downloader Logo" style="border-radius: 20px;" />
 </p>
 
 <p align="center">
