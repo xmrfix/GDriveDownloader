@@ -22,7 +22,7 @@
 
 Click the button below to download the latest standalone installer:
 
-[![Download for Windows](https://img.shields.io/badge/Download-GDriveDownloader--Setup.exe-0071E3?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/xmrfix/GDriveDownloader/releases/latest/download/GDriveDownloader-Setup.exe)
+[![Download for Windows](https://img.shields.io/badge/Download-GDriveDownloader--Setup.exe-0071E3?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/xmrfix/GDriveDownloader/releases/download/v1.0.0/GDriveDownloader-Setup.exe)
 
 > **File Size**: ~133 MB &nbsp;|&nbsp; **OS**: Windows 10 / 11 (64-bit) &nbsp;|&nbsp; **Type**: Standalone Installer
 
